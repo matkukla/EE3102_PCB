@@ -2,23 +2,16 @@
 FileName = EE_3102.GBR
 AutoAperture = True
 *************************************************************
-Generating : Dielectric 1
-      File : EE_3102.1
+Generating : Bottom Layer
+      File : EE_3102.GBL
 
-    Adding Layer      : Dielectric 1
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Multi-Layer
-      File : EE_3102.GML
+    Adding Layer      : Bottom Layer
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
+    D14
     D22
     D23
     D24
@@ -29,94 +22,37 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Mechanical 15
-      File : EE_3102.GM15
+Generating : Top Layer
+      File : EE_3102.GTL
 
-    Adding Layer      : Mechanical 15
+    Adding Layer      : Top Layer
 
-
-Used DCodes :
-    D31
-    D32
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 13
-      File : EE_3102.GM13
-
-    Adding Layer      : Mechanical 13
-
-
-Used DCodes :
-    D31
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 1
-      File : EE_3102.GM1
-
-    Adding Layer      : Mechanical 1
+    Adding Layer      : Multi-Layer
 
 
 Used DCodes :
     D14
-    D29
-    D30
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
 *************************************************************
 
 *************************************************************
-Generating : Keep-Out Layer
-      File : EE_3102.GKO
+Generating : Top Paste
+      File : EE_3102.GTP
 
-    Adding Layer      : Keep-Out Layer
+    Adding Layer      : Top Paste
 
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : EE_3102.GBO
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Bottom Paste
-      File : EE_3102.GBP
-
-    Adding Layer      : Bottom Paste
-
-    Adding Layer      : Bottom Layer
+    Adding Layer      : Top Layer
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Bottom Solder
-      File : EE_3102.GBS
-
-    Adding Layer      : Bottom Solder
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D15
-    D16
-    D17
-    D18
-    D19
-    D20
-    D21
 *************************************************************
 
 *************************************************************
@@ -141,17 +77,24 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Top Paste
-      File : EE_3102.GTP
+Generating : Bottom Solder
+      File : EE_3102.GBS
 
-    Adding Layer      : Top Paste
+    Adding Layer      : Bottom Solder
 
-    Adding Layer      : Top Layer
+    Adding Layer      : Bottom Layer
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
 *************************************************************
 
 *************************************************************
@@ -167,6 +110,79 @@ Used DCodes :
     D12
     D13
     D14
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : EE_3102.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : EE_3102.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : EE_3102.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 15
+      File : EE_3102.GM15
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D29
+    D30
+*************************************************************
+
+*************************************************************
+Generating : Multi-Layer
+      File : EE_3102.GML
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+*************************************************************
+
+*************************************************************
+Generating : Dielectric 1
+      File : EE_3102.1
+
+    Adding Layer      : Dielectric 1
+
+
+Used DCodes :
 *************************************************************
 
 *************************************************************
@@ -208,42 +224,24 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Layer
-      File : EE_3102.GBL
+Generating : Mechanical 1
+      File : EE_3102.GM1
 
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
+    Adding Layer      : Mechanical 1
 
 
 Used DCodes :
     D14
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
 *************************************************************
 
 *************************************************************
-Generating : Top Layer
-      File : EE_3102.GTL
+Generating : Mechanical 13
+      File : EE_3102.GM13
 
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
+    Adding Layer      : Mechanical 13
 
 
 Used DCodes :
-    D14
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
+    D29
 *************************************************************
 
